@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">EjercicioNumeros</string>
+    <string name="acertado">Número correcto</string>
+    <string name="fallido">Los intentos han llegado a 0</string>
+    <string name="noNumero">La entrada debe ser un número entero</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="seguir">\n¿Seguir jugando?</string>
+    <string name="menor">El número es menor, intentos restantes </string>
+    <string name="mayor">El número es mayor, intentos restantes </string>
+    <string name="tituloDialog">¿JUGAR OTRA VEZ?</string>
 </resources>
